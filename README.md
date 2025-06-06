@@ -57,13 +57,11 @@ Dự án triển khai hệ thống nhận diện cử chỉ tay sử dụng họ
 ---
 
 Liên hệ
-Người thực hiện: Họ và Tên
+Người thực hiện: Hoàng Anh Tú
 
-Email: email@example.com
+Email: hoangtu.dainam@gmail.com
 
-GitHub: https://github.com/username/hand-gesture-recognition
+GitHub: [https://github.com/username/hand-gesture-recognition](https://github.com/HoangAnhTu-thapbat/Nhan_dien_ky_hieu_tay/)
 
-Khoa: Khoa Khoa học Máy tính, Trường Đại học ABC
+Khoa: Khoa Công Nghệ Thông Tin, Trường Đại học Đại Nam
 
-Sao chép
-Chỉnh sửa
