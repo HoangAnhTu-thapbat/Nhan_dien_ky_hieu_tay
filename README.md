@@ -61,7 +61,7 @@ Người thực hiện: Hoàng Anh Tú
 
 Email: hoangtu.dainam@gmail.com
 
-GitHub: [https://github.com/username/hand-gesture-recognition](https://github.com/HoangAnhTu-thapbat/Nhan_dien_ky_hieu_tay/)
+GitHub: [https://github.com/HoangAnhTu-thapbat/Nhan_dien_ky_hieu_tay/](https://github.com/HoangAnhTu-thapbat/Nhan_dien_ky_hieu_tay/)
 
 Khoa: Khoa Công Nghệ Thông Tin, Trường Đại học Đại Nam
 
